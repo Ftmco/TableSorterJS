@@ -1,3 +1,5 @@
+//source in https://github.com/ftmco
+
 function sortTable(row,tableId) {
         let table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
         table = document.getElementById(tableId);
